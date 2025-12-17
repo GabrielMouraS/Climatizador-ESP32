@@ -11,7 +11,7 @@
 
 ## 📹 Demonstração
 Veja o sistema em funcionamento: conexão automática via Portal Cativo e acionamento dos relés em tempo real.
-[![Assista ao Vídeo](assets/capa_video.png)](https://github.com/GabrielMouraS/Climatizador-ESP32/blob/main/assets/climatizador.mp4)
+https://github.com/user-attachments/assets/28ec968b-28f1-4c9a-8227-6ff9c7082257
 *Clique na imagem acima para assistir ao vídeo de demonstração.*
 
 ---
