@@ -11,7 +11,9 @@
 
 ## 📹 Demonstração
 Veja o sistema em funcionamento: conexão automática via Portal Cativo e acionamento dos relés em tempo real.
+
 https://github.com/user-attachments/assets/28ec968b-28f1-4c9a-8227-6ff9c7082257
+
 *Clique na imagem acima para assistir ao vídeo de demonstração.*
 
 ---
